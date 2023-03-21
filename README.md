@@ -32,7 +32,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://user-images.githubusercontent.com/38772501/226521624-b720de82-c38b-43ff-bb4a-7a5c101bed94.mov
+
+https://user-images.githubusercontent.com/38772501/226521941-30c13477-4fca-44b3-83c0-4b57c98bf035.mov
+
 
 
 
